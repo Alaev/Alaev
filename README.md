@@ -2,13 +2,15 @@
 
 ### Hi there 👋 Come work with me!
 
-🔭 we are looking for expirianced GO developer (Remote / IL basied), sned your CV: michael.alaev@ridge.co
+🔭 we are looking for expirianced GO developer (Remote / IL basied), Send your CV to: michael.alaev@ridge.co
 
-- 3+ Years hands-on development in C/C++/Go 
+- 3+ Years hands-on development in Go 
 - Distributed systems design and deployment
-- Devops: Containers / Kubernetes / Cloud (PaaS / IaaS)
 - Fluent English (written and verbal)
+
+Advantage:
+- Devops: Containers / Kubernetes / Cloud (PaaS / IaaS) 
 
 About us: https://www.ridge.co/
 
-From the web: https://container.sios.jp/tech/rks_link/ 
+Carrers: https://www.ridge.co/careers
